@@ -8,3 +8,18 @@ Models included:
 - VGG 16
 - VGG 19
 - ResNet50
+
+Collaborated with: Savanna Guertin
+
+## Why did you build this?
+ I felt this would be an interesting project in order to test different types of neural network models and compare their results. During the project we wanted to compare a CNN model without transfer learning, VGG 16, VGG 19, and ResNet50. Moreover, we wanted to contribute to the issue of tedious manual galaxy recognition by using machine learning these machine learning models.
+ 
+## What did you learn from this?
+During the testing we found that the models with transfer learning (VGG 16, VGG 19, and ResNet50) performed much better than the base CNN model without transfer learning. Additionally, the best model when comparing the four came to be the VGG 16 model with transfer learning.
+
+## Comparing the F1-Scores of the four models used
+![CIFAR-10 Screenshot1](https://user-images.githubusercontent.com/57194224/130534357-b8d31a1b-1279-4fce-a4a5-b3772560de21.png)
+
+## Further examining the results for the best model (VGG 16)
+![CIFAR-10 Screenshot2](https://user-images.githubusercontent.com/57194224/130534419-9ebd8c1b-aaa2-4a2c-b6c9-2a3322f118c8.png)
+
