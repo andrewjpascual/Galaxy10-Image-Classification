@@ -9,7 +9,7 @@ Models included:
 - VGG 19
 - ResNet50
 
-Collaborated with: Savanna Guertin
+Contributors: Andrew Pascual, Savanna Guertin
 
 ## Why did you build this?
  I felt this would be an interesting project in order to test different types of neural network models and compare their results. During the project we wanted to compare a CNN model without transfer learning, VGG 16, VGG 19, and ResNet50. Moreover, we wanted to contribute to the issue of tedious manual galaxy recognition by using machine learning these machine learning models.
