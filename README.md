@@ -12,7 +12,7 @@ Models included:
 Contributors: Andrew Pascual, Savanna Guertin
 
 ## Why did you build this?
- I felt this would be an interesting project in order to test different types of neural network models and compare their results. During the project we wanted to compare a CNN model without transfer learning, VGG 16, VGG 19, and ResNet50. Moreover, we wanted to contribute to the issue of tedious manual galaxy recognition by using machine learning these machine learning models.
+This was a project in order to test different types of neural network models and compare their results. During the project we wanted to compare a CNN model without transfer learning, VGG 16, VGG 19, and ResNet50. Moreover, we wanted to contribute to the issue of tedious manual galaxy recognition by using machine learning these machine learning models.
  
 ## What did you learn from this?
 During the testing we found that the models with transfer learning (VGG 16, VGG 19, and ResNet50) performed much better than the base CNN model without transfer learning. Additionally, the best model when comparing the four came to be the VGG 16 model with transfer learning.
